@@ -40,19 +40,19 @@ public class Message {
         this.id = id;
     }
 
-    public String getSurname() {
+    public String getTitle() {
         return title;
     }
 
-    public void setSurname(String surname) {
+    public void setTitle(String surname) {
         this.title = surname;
     }
 
-    public String getLastname() {
+    public String getText() {
         return text;
     }
 
-    public void setLastname(String lastname) {
+    public void setText(String lastname) {
         this.text = lastname;
     }
 
