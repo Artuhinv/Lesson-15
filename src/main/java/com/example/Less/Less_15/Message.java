@@ -44,16 +44,16 @@ public class Message {
         return title;
     }
 
-    public void setTitle(String surname) {
-        this.title = surname;
+    public void setTitle(String title) {
+        this.title = title;
     }
 
     public String getText() {
         return text;
     }
 
-    public void setText(String lastname) {
-        this.text = lastname;
+    public void setText(String text) {
+        this.text = text;
     }
 
     public LocalDateTime getBirthday() {
